@@ -1,0 +1,45 @@
+body{
+    background-color: hsl(217, 54%, 11%);
+    text-align: center;
+    margin: 38%;
+}
+.A{ border-top-right-radius: 5%;
+    border-top-left-radius: 5%;
+    border-bottom-left-radius: 5%;
+    border-bottom-right-radius: 5%;
+     padding-top:5%;
+    background-color: hsl(216, 50%, 16%)
+}
+.middle{
+    border: 1px solid hsl(215, 32%, 27%);
+}
+h5{
+    color: grey;
+}
+.big{
+    color: white;
+}
+.flex{
+    display: flex;
+    justify-content: center;
+}
+.small{
+      color: hsl(215, 51%, 70%)
+}
+.old{
+    color: white;
+}
+.equal{
+    border-top-right-radius: 5%;
+    border-top-left-radius: 5%;
+    border-bottom-left-radius: 5%;
+    border-bottom-right-radius:5% ;
+}
+.videe{
+    margin-left: 10px;
+    color: hsl(215, 51%, 70%);
+}
+.class
+{
+     margin-left: 100px;
+}
